@@ -1,9 +1,10 @@
 * {
-margin: 0; /* Remove margens externas padrão */
-padding: 0; /* Remove preenchimentos internos padrão */
-box-sizing: border-box; /* Inclui bordas e preenchimento no cálculo da largura/altura */
-font-family: Arial, Helvetica, sans-serif; /* Define a fonte principal usada no site */
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Titillium Web', Arial, Helvetica, sans-serif;
 }
+
 .bng-navbar-menu {
 background-color: #343a40; /* Cor de fundo escura */
 display: flex; /* Organiza os elementos na horizontal */
